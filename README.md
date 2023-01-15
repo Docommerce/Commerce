@@ -16,3 +16,17 @@ d. Small Cap Fund
 Answer: a. Multi Cap Fund
 
 
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
+
+
