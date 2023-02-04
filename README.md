@@ -26,33 +26,7 @@ Answer: a. Multi Cap Fund
    puts "Hello World"
 ```
 
-</p>
-</details>
-<html>
-  <head>
-    <script>
-      function showAnswer() {
-        var x = document.getElementById("answer");
-        if (x.style.display === "none") {
-          x.style.display = "block";
-        } else {
-          x.style.display = "none";
-        }
-      }
-    </script>
-  </head>
-  <body>
-    <p>Q: What is the minimum investment in equity and equity related instruments of a Multi Cap Fund?</p>
-    <form>
-      <input type="radio" name="question" value="A"> A. 75%<br>
-      <input type="radio" name="question" value="B"> B. 80%<br>
-      <input type="radio" name="question" value="C"> C. 65%<br>
-      <input type="radio" name="question" value="D"> D. 50%<br>
-    </form>
-    <button type="button" onclick="showAnswer()">Show Answer</button>
-    <p id="answer" style="display: none">Correct Answer: A. 75%</p>
-  </body>
-</html>
+
 
 
 
