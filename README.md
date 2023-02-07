@@ -25,6 +25,8 @@ Answer: a. Multi Cap Fund
 ```ruby
    puts "Hello World"
 ```
+   
+   
 ## Question: What is the capital of France?
 - A) Paris
 - B) Berlin
@@ -33,10 +35,10 @@ Answer: a. Multi Cap Fund
 
 
 
-
+<details><summary>CLICK ME</summary>
+<p>
 ```ruby
    Answer: A
-
 ```
 
 
