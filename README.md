@@ -20,7 +20,7 @@ Answer: a. Multi Cap Fund
 <details><summary>CLICK ME</summary>
 <p>
 
-#### We can hide anything, even code!
+
 
 ```ruby
    puts "Hello World"
@@ -30,10 +30,9 @@ Answer: a. Multi Cap Fund
 - B) Berlin
 - C) Madrid
 - D) Rome
-<details><summary>CLICK ME</summary>
-<p>
 
-#### We can hide anything, even code!
+
+
 
 ```ruby
    Answer: A
