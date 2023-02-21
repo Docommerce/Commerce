@@ -15,7 +15,7 @@
    Answer: A
 ```
    
-Which type of mutual fund scheme predominantly invests in large cap stocks?
+# Which type of mutual fund scheme predominantly invests in large cap stocks?
 
 A. Multi Cap Fund 
 B. Large Cap Fund 
