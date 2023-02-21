@@ -1,4 +1,20 @@
 # Commerce
+
+
+## Question: What is the capital of France?
+- A) Paris
+- B) Berlin
+- C) Madrid
+- D) Rome
+
+
+
+<details><summary>CLICK ME</summary>
+<p>
+```ruby
+   Answer: A
+```
+   
 Which type of mutual fund scheme predominantly invests in large cap stocks?
 
 A. Multi Cap Fund 
