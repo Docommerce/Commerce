@@ -42,6 +42,20 @@ Answer: a. Multi Cap Fund
 ```
 
 
+##ideas
+1. Roadmap
+2. Mindmap
+3. comparison between the two terms in a table format
+4. timestamp
+5. Interview Question
+6. Mcqs
+7. definitions
+8. Images
+9. Links
+10. videos
+11. 
+
+
 
 
 
